@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vixtorn
-- 👀 I’m interested in Front-End Engineering.
-- 🌱 I’m currently learning HTML,CSS,JS,BOOTSTRAP,REACT
-- 💞️ I’m looking to collaborate on Front-End Projects.
+- 👀 I’m interested in Front-End Engineering & Data Analysis.
+- 🌱 I’m currently learning HTML,CSS,JS,BOOTSTRAP,REACT,SQL,Excel,SpreadSheets.
+- 💞️ I’m looking to collaborate on Front-End & Data Analysis Projects.
 - 📫 How to reach me emirduman90@gmail.com
 
 <!---
