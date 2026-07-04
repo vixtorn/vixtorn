@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
 
-<h3 align="center">.NET Developer building ERP tools, APIs and chaotic side projects by night.</h3>
+<h3 align="center">.NET Developer building APIs, business apps and modern web projects.</h3>
 
 <p align="center">
   I turn business problems into clean web apps — and random late-night ideas into portfolio projects.
@@ -14,17 +14,17 @@
 
 ### About Me
 
-* 💻 .NET Developer focused on internal web apps, ERP tools and REST APIs
+- 💻 .NET Developer focused on backend development, internal web apps and REST APIs
 
-* 🧠 I like working across backend, frontend and product details without losing the main plot
+- 🧠 I like working across backend, frontend and product details without losing the main plot
 
-* 🛠️ Currently working with **ASP.NET Core**, **Entity Framework Core**, **SQL Server** and **MySQL**
+- 🛠️ Currently working with **ASP.NET Core**, **Entity Framework Core**, **SQL Server** and **MySQL**
 
-* 🚀 I build side projects to learn faster, ship faster and avoid becoming a tutorial zombie
+- 🚀 I build side projects to learn faster, ship faster and avoid becoming a tutorial zombie
 
-* 📫 How to reach me **[emirduman90@gmail.com](mailto:emirduman90@gmail.com)**
+- 📫 Reach me at **emirduman90@gmail.com**
 
-* ⚡ Fun fact **storytelling is my hobby, and I’m pretty good at it. Test me.**
+- ⚡ Fun fact **storytelling is my hobby, and I’m pretty good at it. Test me.**
 
 ---
 
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-<h3 align="left">Frontend & Side Quest Stack:</h3>
+<h3 align="left">Frontend Stack:</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -50,14 +50,11 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact:</h3>
 
 <p align="left">
   <a href="mailto:emirduman90@gmail.com">
-    <img src="https://img.shields.io/badge/Email-emirduman90%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/emirtayfunduman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Emir%20Tayfun%20Duman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Gmail-emirduman90%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -111,12 +108,4 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vixtorn&show_icons=true&locale=en&layout=compact" alt="vixtorn" />
 </p>
